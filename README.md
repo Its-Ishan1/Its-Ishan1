@@ -1,5 +1,5 @@
-
-<img src="https://share.google/images/6bU2OAEuWNT7d2b7Y">
+<p>
+<image alt="coding" src="https://share.google/images/6bU2OAEuWNT7d2b7Y"> </image> </p>
 <h1 align="center">Hi 👋, I'm Ishan Joshi</h1>
 <h3 align="center">A passionate developer</h3>
 
