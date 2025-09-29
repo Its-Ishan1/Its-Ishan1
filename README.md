@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif">
 
 <h1 align="center">Hi 👋, I'm Ishan Joshi</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
