@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Ishan Joshi</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=Its-Ishan1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I'm currently working on **Spotify-Web-Player**
-- 🌱 I'm currently learning **React & Node.js**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **ishanzoci@gmail.com**
-- ⚡ Fun fact: **I love coding and creating web applications**
+-  I'm currently working on **Spotify-Web-Player**
+-  I'm currently learning **React & Node.js**
+-  Ask me about **HTML, CSS, JavaScript**
+-  How to reach me: **ishanzoci@gmail.com**
+-  Fun fact: **I love coding and creating web applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
