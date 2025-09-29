@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif">
 
 <h1 align="center">Hi 👋, I'm Ishan Joshi</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A passionate developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Its-Ishan1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
