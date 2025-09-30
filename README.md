@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Its-Ishan1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
--  I'm currently working on **Spotify-Web-Player**
+-  I'm currently working on **CGPA Calculator App**
 -  I'm currently learning **React & Node.js**
 -  Ask me about **HTML, CSS, JavaScript**
 -  How to reach me: **ishanzoci@gmail.com**
