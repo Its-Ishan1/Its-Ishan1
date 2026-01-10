@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=Its-Ishan1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
--  I'm currently working on **CGPA Calculator App**
--  I'm currently learning **React & Node.js**
--  Ask me about **HTML, CSS, JavaScript**
+-  I'm currently working on GreenCart Website
+-  I'm currently learning Machine Learning
+-  Ask me about Full Stack Web-Dev
 -  How to reach me: **ishanzoci@gmail.com**
 -  Fun fact: **I love coding and creating web applications**
 
