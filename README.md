@@ -11,7 +11,7 @@
 -  I'm currently learning Machine Learning
 -  Ask me about Full Stack Web-Dev
 -  How to reach me: **ishanzoci@gmail.com**
--  Fun fact: **I love coding and creating web applications**
+-   **I love coding and creating web applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
